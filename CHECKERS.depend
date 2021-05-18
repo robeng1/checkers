@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1488281302 source:c:\users\user\desktop\programmin'\checkers\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1498211108 
+
+1488896759 source:c:\users\user\desktop\programmin'\checkers\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<math.h>
+	<fstream>
+
+1489723928 source:c:\users\user\desktop\programs\checkers\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<math.h>
+	<fstream>
+
+1492384150 source:c:\users\user\desktop\gen\project euler\programs\checkers\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<windows.h>
+	<fstream>
+	"Funcs.h"
+
+1492383915 source:c:\users\user\desktop\gen\project euler\programs\checkers\funcs.cpp
+	<iostream>
+	"Funcs.h"
+	<iostream>
+	<iomanip>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<math.h>
+	<fstream>
+
+1492384096 c:\users\user\desktop\gen\project euler\programs\checkers\funcs.h
+
+1492383915 source:f:\memoir\codes\c-c++\checkers\funcs.cpp
+	<iostream>
+	"Funcs.h"
+	<iostream>
+	<iomanip>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<math.h>
+	<fstream>
+
+1492384096 f:\memoir\codes\c-c++\checkers\funcs.h
+
+1492383915 source:c:\users\user\desktop\romeo\plus\checkers\funcs.cpp
+	<iostream>
+	"Funcs.h"
+	<iostream>
+	<iomanip>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<math.h>
+	<fstream>
+
+1492384096 c:\users\user\desktop\romeo\plus\checkers\funcs.h
+
+1498211108 source:c:\users\user\desktop\romeo\plus\checkers\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<windows.h>
+	<fstream>
+	"Funcs.h"
+
+1535800260 source:/home/romeo/Desktop/Romeo/Plus/CHECKERS/Funcs.cpp
+	<iostream>
+	"Funcs.h"
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<math.h>
+	<fstream>
+
+1492384096 /home/romeo/Desktop/Romeo/Plus/CHECKERS/Funcs.h
+
+1498211108 source:/home/romeo/Desktop/Romeo/Plus/CHECKERS/main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<windows.h>
+	<fstream>
+	"Funcs.h"
+
+1535800260 source:/media/romeo/Primary/Users/ROMEO/Desktop/Kwesi/Romeo/Plus/CHECKERS/Funcs.cpp
+	<iostream>
+	"Funcs.h"
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<math.h>
+	<fstream>
+
+1610451936 /media/romeo/Primary/Users/ROMEO/Desktop/Kwesi/Romeo/Plus/CHECKERS/Funcs.h
+
+1535800267 source:/media/romeo/Primary/Users/ROMEO/Desktop/Kwesi/Romeo/Plus/CHECKERS/main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<fstream>
+	"Funcs.h"
+
